@@ -38,6 +38,7 @@ $menu = menu();
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <?=$menu?>
+                    <p>test</p>
                 </ul>
             </div>
         </nav>
